@@ -1,0 +1,9 @@
+jupyter
+pandas
+numpy
+scipy
+sklearn
+tensorflow
+bs4
+matplotlib
+seaborn
